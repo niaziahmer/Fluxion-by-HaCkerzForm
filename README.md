@@ -1,5 +1,5 @@
 # Hackerz.
-## :Usage
+## :pen:Usage
 * chmod +x ./Installer  
 * ./Installer
 After installing.
