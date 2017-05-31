@@ -1,4 +1,10 @@
 # Hackerz.
+## :Usage
+* chmod +x ./Installer  
+* ./Installer
+After installing.
+* chmod +x ./fluxion
+* ./fluxion
 #Fluxion is the future 
 #Fluxion is a remake of linset by vk496 with less bugs and more features. It's compatible with the latest release of Kali (Rolling)
 ## :octocat: How to contribute
